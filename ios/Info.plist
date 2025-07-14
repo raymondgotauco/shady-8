@@ -1,0 +1,6 @@
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Needed to estimate exposure using the camera</string>
+</dict>
+</plist>

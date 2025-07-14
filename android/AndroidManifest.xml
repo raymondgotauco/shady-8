@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shady8.lightmeter">
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <application android:label="SHADY 8" />
+</manifest>
